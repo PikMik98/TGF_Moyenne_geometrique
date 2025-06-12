@@ -1,0 +1,1 @@
+# TGF_Moyenne_geometrique
